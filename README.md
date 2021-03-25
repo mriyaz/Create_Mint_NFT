@@ -1,1 +1,2 @@
-# Create_Mint_NFT
+# Create & Mint NFT
+Code for creating and minting an NFT
