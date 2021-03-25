@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "habitat",
+      "value": "house"
+    },
+    {
+      "trait_type": "Suspension",
+      "value": "Baloons"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Sky"
+    }
+  ],
+  "description": "The sky's most adorable house.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbbnfHCb9ZWTVYipmHMpercVctYFofCsMatPGQ8g1NsgY",
+  "name": "AdorableHouse"
+}
